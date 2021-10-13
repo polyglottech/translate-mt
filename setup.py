@@ -7,5 +7,5 @@ setup(name='translate-mt',
       author='Achim Ruopp',
       author_email='achim@polyglot.technology',
       license='MIT',
-      packages=['translate-mt'],
+      packages=['translatemt'],
       zip_safe=False)
